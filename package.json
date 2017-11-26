@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "auth0-js": "^8.11.3",
     "axios": "^0.17.1",
     "history": "^4.7.2",
+    "jwt-decode": "^2.2.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-redux": "^5.0.6",
