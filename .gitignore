@@ -9,4 +9,4 @@ npm-debug.log*
 /release
 /test/coverage
 yarn.lock
-/env.js*
+/src/env.js*

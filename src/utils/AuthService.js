@@ -3,7 +3,7 @@ import { BrowserRouter } from 'react-router-dom';
 import auth0 from 'auth0-js';
 import Callback from '../components/callback'
 import history from '../history'
-import { getClientId } from '../../env'
+import { getClientId } from '../env'
 
 const ID_TOKEN_KEY = 'id_token';
 const ACCESS_TOKEN_KEY = 'access_token';
